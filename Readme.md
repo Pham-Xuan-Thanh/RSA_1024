@@ -7,7 +7,7 @@ $ python3.8 RSA_1024.py todo arguments
     * todo :
         * 'gen' : tạo ra các PublicKey and PrivateKey
             * Argument : Là _số lượng bit_ cần đề tạo ra Key
-        *'enc' : Mã hóa thông tin thành mật mã
+        * 'enc' : Mã hóa thông tin thành mật mã
             *Argument : 1. e 2. n 
         * 'dec' : Giải mã mật mã được mã hóa
             *Argument : 1. d 2. n
